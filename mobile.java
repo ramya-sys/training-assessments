@@ -7,7 +7,7 @@ class  Samsungmobile
    int ram;
   int Rear_camera;
    int Front_camera;
-   double protection;
+  static double Protection;
   static int Battery;
  static float Display;
  static int Storage;
